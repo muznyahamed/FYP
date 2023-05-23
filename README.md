@@ -1,2 +1,2 @@
 # FYP
-the parkinnson cue project 
+the parkinnson cue proj
